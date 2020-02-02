@@ -77,3 +77,215 @@ Script `src/VolitantEgg/Assets/Scripts/kazgame/level/DanymicLoadLevelController.
 ### Two Trees
 There are two trees in the game, left is a pine tree, right is a oak tree(I hope I draw them correctly. :smile:). 
 
+These two trees make up the background across the levels, actually it contains only 12 images, 
+`src/VolitantEgg/Assets/Resources/Img/trunk_left_x.png` for left tree, `src/VolitantEgg/Assets/Resources/Img/trunk_right_x.png` for right tree. 
+
+## Credits
+Most music and sounds are searched with free
+license. I made some sounds by myself via [garageband](https://www.apple.com/mac/garageband/).
+
+The credits are also available at [here](src/VolitantEgg/Assets/Resources/Text/credits.txt).
+
+<b>Musics</b>
+
+Carefree Melody 
+by Twin Musicom 
+is licensed under a Creative 
+Commons Attribution license 
+(https://creativecommons.org
+/licenses/by/4.0/)
+Source: 
+http://www.twinmusicom.org
+/song/302/carefree-melody
+Artist: 
+http://www.twinmusicom.org
+
+Locally_Sourced
+by Unknown
+Source: 
+YouTube Audio Library
+
+
+<b>Sounds</b>
+
+Cuckoo Clock
+by Dean-Raule_DiArchangeli
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0/)
+Source:
+https://freesound.org/people
+/Dean-Raule_DiArchangeli
+/sounds/128177/
+
+pigeon wings
+by tigersound
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by-nc/3.0)
+Source:
+http://www.freesound.org
+/people/tigersound
+/sounds/9329/
+
+Squirrel Chatter 4 3 2016 
+Lincoln Nebraska
+by bmccoy2
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by-nc/3.0)
+Source:
+http://www.freesound.org
+/people/bmccoy2
+/sounds/342105
+
+Monkey screaming
+by Archeos
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0)
+Source:
+http://www.freesound.org
+/people/Archeos
+/sounds/325549
+
+monkeys-1
+by xserra
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by-nc/3.0)
+Source:
+http://www.freesound.org
+/people/xserra
+/sounds/93993
+
+Gibbon Monkey
+by Bidone
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0)
+Source:
+http://www.freesound.org
+/people/Bidone
+/sounds/67355
+
+Owls at Night
+by Npeo
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by-nc/3.0)
+Source:
+http://www.freesound.org
+/people/Npeo
+/sounds/221672
+
+Woodpecker Eating Distant
+by Unknown
+Source: 
+YouTube Audio Library
+
+Eagle owl
+by urupin
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by-nc/3.0)
+Source:
+http://www.freesound.org
+/people/urupin
+/sounds/344467
+
+8-bit Countdown Ready
+by JapanYoshiTheGamer
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0)
+Source:
+http://www.freesound.org
+/people/JapanYoshiTheGamer
+/sounds/361254
+
+Race Start Ready go
+by steel2008
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0)
+Source:
+http://www.freesound.org
+/people/steel2008
+/sounds/231277
+
+GoodResult
+by unadamlar
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0/)
+Source:
+http://www.freesound.org
+/people/unadamlar
+/sounds/341985
+
+SFX Magic
+by renatalmar
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0/)
+Source:
+http://www.freesound.org
+/people/renatalmar
+/sounds/264981
+
+SCORE COUNT
+by xtrgamr
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/publicdomain/zero/1.0/)
+Source:
+http://www.freesound.org
+/people/xtrgamr
+/sounds/253546/
+
+Game Sound Correct
+by Bertrof
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by/3.0/)
+Source:
+http://www.freesound.org
+/people/Bertrof
+/sounds/131660/
+
+wah wah sad trombone
+by kirbydx
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by/3.0/)
+Source:
+http://www.freesound.org
+/people/kirbydx
+/sounds/175409
+
+Birds
+by Julien Nicolas
+is licensed under a Creative 
+Commons Attribution license
+(https://creativecommons.org
+/licenses/by/3.0/)
+Source:
+http://www.freesound.org
+/people/Julien%20Nicolas
+/sounds/243459/
